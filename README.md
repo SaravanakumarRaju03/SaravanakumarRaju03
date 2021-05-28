@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaravanakumarRaju03
 - 👀 I’m interested in cloud native applications and containers.
-- 🌱 I’m currently learning kubernetes, ansible and python
+- 🌱 I’m currently learning to code :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/saravanakumarraju/
 
